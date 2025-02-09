@@ -1,1 +1,1 @@
-Bunch of financial model, use at your own risk!
+Bunch of financial models, use at your own risk!
